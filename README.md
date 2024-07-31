@@ -1,4 +1,8 @@
 <div id="header" align="center">
+<p>
+I’m a passionate software developer and content creator specializing in the fields of blockchain, artificial intelligence, and cryptocurrencies. With a robust background in tech development, I blend deep industry knowledge with an engaging writing style to demystify complex technologies and trends for a wide audience.
+</p>
+<br>
   <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
