@@ -15,5 +15,5 @@ I’m a passionate software developer and content creator specializing in the fi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </p>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erenlokman&theme=highcontrast&hide_border=true&border_radius=7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erenlokman)](https://git.io/streak-stats)
 </div>
